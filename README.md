@@ -5,6 +5,16 @@
 
 A modern, interactive web application that allows users to generate, customize, and download QR codes instantly. Built with React, Vite, and Tailwind CSS.
 
+## 📸 Screenshots
+
+| Desktop View | Generated QR Example |
+|---|---|
+| ![Desktop view](screenshots/desktop.png) | ![QR code example](screenshots/qr-example.png) |
+
+| Mobile View (top) | Mobile View (bottom) |
+|---|---|
+| ![Mobile view top](screenshots/mobile-1.png) | ![Mobile view bottom](screenshots/mobile-2.png) |
+
 ## 🚀 Features
 
 ### Core Features
