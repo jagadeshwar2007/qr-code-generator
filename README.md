@@ -1,5 +1,8 @@
 # QR Code Generator & Designer
 
+🔗 **Live Demo:** https://qr-code-generator-nine-steel.vercel.app
+📂 **Repository:** https://github.com/jagadeshwar2007/qr-code-generator
+
 A modern, interactive web application that allows users to generate, customize, and download QR codes instantly. Built with React, Vite, and Tailwind CSS.
 
 ## 🚀 Features
@@ -105,7 +108,7 @@ A modern, interactive web application that allows users to generate, customize, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/jagadeshwar2007/qr-code-generator.git
    cd qr-code-generator
    ```
 
